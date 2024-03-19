@@ -8,7 +8,8 @@
 		"vscode": {
 			"extensions": [
 				"k--kato.intellij-idea-keybindings",
-				"PKief.material-icon-theme"
+				"PKief.material-icon-theme",
+				"github.vscode-github-actions"
 			]
 		}
 	}
